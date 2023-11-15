@@ -139,7 +139,6 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-
 ![Screenshot 2023-11-15 192448](https://github.com/swetha1510/cover/assets/120623583/c3ad3670-41ba-430e-9589-83c96b112a11)
 
 ## RESULT:
